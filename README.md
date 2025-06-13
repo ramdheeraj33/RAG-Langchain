@@ -8,7 +8,7 @@ The Retrieval Augmented Engine (RAG) is a powerful tool for document retrieval, 
 
 ### Example Output
 
-![Screenshot of the app](screenshots/.chatbot_conversation.png)
+![Screenshot of the app](screenshots/chatbot_conversation.png)
 
 ## Features
 
